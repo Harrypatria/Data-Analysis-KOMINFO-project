@@ -50,3 +50,16 @@ As mentioned before, Python is one of the most widely used language over the web
   * GUI Programming − Python supports GUI applications that can be created and ported to many system calls, libraries and windows systems, such as Windows MFC, Macintosh, and the X Window system of Unix.
 
   * Scalable − Python provides a better structure and support for large programs than shell scripting.
+
+Characteristics of Python
+Following are important characteristics of Python Programming −
+
+  - It supports functional and structured programming methods as well as OOP.
+
+  - It can be used as a scripting language or can be compiled to byte-code for building large applications.
+
+  - It provides very high-level dynamic data types and supports dynamic type checking.
+
+  - It supports automatic garbage collection.
+
+  - It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
