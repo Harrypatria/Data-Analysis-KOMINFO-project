@@ -1,6 +1,6 @@
 # Data-Analysis-KOMINFO-project
 
-This tutorial was originally written by Dr. Harry Patria https://github.com/Harrypatria for MasterClass conducted by Patria & Co, PT. Strategi Transforma Infiniti. 
+This tutorial was developed by Dr. Harry Patria https://github.com/Harrypatria for MasterClass conducted by Patria & Co, PT. Strategi Transforma Infiniti. 
 
 It was adapted as a Jupyter notebook for CS228 at Stanford University.
 This version has been adapted for Colab. It runs Python3 by default.
